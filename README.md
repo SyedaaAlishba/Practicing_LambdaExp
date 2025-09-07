@@ -7,4 +7,17 @@ It is mainly used to implement **functional interfaces** (interfaces with exactl
 👉 General Syntax:
 ```java
 (parameters) -> { body }
+
+````
+
 ---
+
+## ✅ Why Use Lambdas?
+
+* Makes code **shorter and cleaner**
+* Avoids writing **extra classes** just to implement one method
+* Used heavily with **Java Streams, Collections, and functional programming**
+
+
+
+
